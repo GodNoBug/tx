@@ -10,3 +10,5 @@ SQL：
 - [ban1_pay.sql](https://github.com/GodNoBug/tx/blob/master/sql/ban1_pay.sql)
 - [bank1.sql](https://github.com/GodNoBug/tx/blob/master/sql/bank1.sql)
 - [bank2.sql](https://github.com/GodNoBug/tx/blob/master/sql/bank2.sql)
+
+不定期更新
